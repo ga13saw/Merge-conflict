@@ -3,7 +3,7 @@ Hello!
 my name is dev1.
 I'm from Chennai.
 
-my name is dev2.
-I'm from Mumbai.
+my name is dev1.
+I'm from Chennai
 
 Happy to work with Wissen Tech.
